@@ -44,3 +44,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+OpenSSH_8.1p1,
+"debug1\357\200\272"
