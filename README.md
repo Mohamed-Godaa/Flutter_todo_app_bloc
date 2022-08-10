@@ -3,7 +3,7 @@
 ## A simple Flutter todo app using bloc
 
 
-This project is from Bloc official docs, it's awesome check it out!
+This project is follow along from Bloc official docs, it's awesome check it out!
 
 https://bloclibrary.dev/#/fluttertodostutorial
 
